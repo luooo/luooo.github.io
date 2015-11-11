@@ -26,6 +26,14 @@ description: 议题（Issue）是 github 中管理任务的有效方法。
 - **对接人**（assignee），希望对接人能够在某时间段对 issue 负责；
 - **评论**（comment），这样才能接收到别人对仓库的反馈。
 
+```c
+int main()
+{
+    printf("hello,world!");
+    
+    return 0;
+}
+```
 
 
 ## 里程碑、标签和对接人
